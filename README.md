@@ -92,7 +92,7 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-19 161445.png>)
+!![alt text](<sabii/Screenshot 2025-12-19 161445.png>)
 
 
 ## RESULT:
